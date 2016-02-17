@@ -1,0 +1,16 @@
+{
+  "name": "heart-stream",
+  "version": "1.0.0",
+  "description": "heart stream",
+  "main": "index.js",
+  "dependencies": {
+    "from2": "^2.1.1",
+    "never-ending-stream": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Matuzak",
+  "license": "MIT"
+}
